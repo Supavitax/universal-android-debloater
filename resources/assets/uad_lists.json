@@ -21636,6 +21636,15 @@
     "removal": "Advanced"
   },
   {
+    "id": "com.lenovo.lsf.device",
+    "list": "Oem",
+    "description": "Device Service.\n\n Pithus Analysis: https://beta.pithus.org/report/57245b7ad23d425fd13aa274607c1812f0e4158796d2c7cec29ea26c1466d9ca",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
     "id": "com.lenovo.dsa",
     "list": "Oem",
     "description": "OCZ_DeployServiceApp.\n\n Pithus Analysis: https://beta.pithus.org/report/4200d76f3d6b6a94cea34aebf93a6b2f0aadb0722b2a060e361d0925ba014fda",
@@ -21643,6 +21652,15 @@
     "neededBy": [],
     "labels": [],
     "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.ocpl",
+    "list": "Oem",
+    "description": "OCZ_ClientDownloader.\n\n Seems to have a lot of questionable permissions. Possibly cause issues with OTA updates.\n\n Pithus Analysis: https://beta.pithus.org/report/60ebe0be5c0809d7b2b58ca113aa5e1076b0097aa69e7694806659d5a1a8b879",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
   },
   {
     "id": "com.lenovo.launcher.provider",

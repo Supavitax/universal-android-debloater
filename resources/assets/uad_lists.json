@@ -19737,7 +19737,7 @@
     "removal": "Recommended"
   },
   {
-    "id": "com.tblenovo.lenovotips",
+    "id": "com.tb.tips",
     "list": "Oem",
     "description": "Useless Lenovo Tips app used by Lenovo to display un-dismissable and un-mutable ads in notifications.\nhttps://news.ycombinator.com/item?id=28382081",
     "dependencies": [],
@@ -21598,5 +21598,86 @@
     "neededBy": [],
     "labels": [],
     "removal": "Advanced"
-  }
+  },
+  {
+    "id": "com.tbsmart.levision",
+    "list": "Oem",
+    "description": "Face-recognition",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.tblenovo.tabpushout",
+    "list": "Oem",
+    "description": "Device Service Support",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.tblenovo.lenovowhatsnew",
+    "list": "Oem",
+    "description": "(Lenovo Feature Update)\n\nPithus analysis: https://beta.pithus.org/report/e5ef5729828932084c5b6cc44911357ad15642806d81ba588f365bb73ee71a8f.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
+  },
+  {
+    "id": "com.lenovo.ota",
+    "list": "Oem",
+    "description": "System Update",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.lsf.device",
+    "list": "Oem",
+    "description": "(Device Service) Seems to require a lot of permissions. Possible privacy concern.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.ocpl",
+    "list": "Oem",
+    "description": "(OCZ_ClientDownloader) Seems to require a lot of permissions. Possible privacy concern.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.dsa",
+    "list": "Oem",
+    "description": "(OCZ_DeployserviceApp) Possibly related to com.lenovo.ocpl (OCZ_ClientDownloader).",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.lsf",
+    "list": "Oem",
+    "description": "(Lenovo ID) Seems related to Lenovo account.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.productivity.service",
+    "list": "Oem",
+    "description": "(Lenovo Productivity Service)\n\nPithus analysis: https://beta.pithus.org/report/3a2d9cf9de2786b5b10599e41a23312d63e543f6b822713ad2ef4952210e648c.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
 ]

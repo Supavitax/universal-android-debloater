@@ -21635,4 +21635,31 @@
     "labels": [],
     "removal": "Advanced"
   },
+  {
+    "id": "com.lenovo.dsa",
+    "list": "Oem",
+    "description": "OCZ_DeployServiceApp.\n\n Pithus Analysis: https://beta.pithus.org/report/4200d76f3d6b6a94cea34aebf93a6b2f0aadb0722b2a060e361d0925ba014fda",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.launcher.provider",
+    "list": "Oem",
+    "description": "LenovoLauncherProvider.\n\n Pithus Analysis: https://beta.pithus.org/report/d72048bdb6a198528cb6000e825b8e76a9dada2a51934ae103b5421da4255961",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.lenovoprivacy",
+    "list": "Oem",
+    "description": "Settings.\n\n Pithus Analysis: https://beta.pithus.org/report/3902460816cec485612a984a8620677e3e0b189e5765981c3220baeb91fcbc27",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
 ]

@@ -21598,5 +21598,41 @@
     "neededBy": [],
     "labels": [],
     "removal": "Advanced"
-  }
+  },
+  {
+    "id": "com.lenovo.productivity.service",
+    "list": "Oem",
+    "description": "Lenovo Productivity Service.\n\n Pithus Analysis: https://beta.pithus.org/report/3a2d9cf9de2786b5b10599e41a23312d63e543f6b822713ad2ef4952210e648c",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.tbengine",
+    "list": "Oem",
+    "description": "UDS real time engine.\n\n Pithus Analysis: https://beta.pithus.org/report/6bbe466b793520a1dff5a5e8e3d459b6802b781ec01a4ad86159f051131613b3",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.tblenovo.lenovowhatsnew",
+    "list": "Oem",
+    "description": "Lenovo Feature Update.\n\n Pithus Analysis: https://beta.pithus.org/report/e5ef5729828932084c5b6cc44911357ad15642806d81ba588f365bb73ee71a8f",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
+  {
+    "id": "com.lenovo.lsf",
+    "list": "Oem",
+    "description": "Lenovo ID.\n\n Pithus Analysis: https://beta.pithus.org/report/d03b95bda17c0a6bcab840f3b62df37b0e9566d5d01b8169306f2d0d43c4b1f3",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Advanced"
+  },
 ]
